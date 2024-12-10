@@ -1,6 +1,6 @@
 # Multi-Robot Firefighting Simulation
 
-This repository contains the code and simulation setup for our *Multi-Robot Firefighting System, developed as part of the final project for **MAE598* at Arizona State University (ASU). The simulation uses the *Python version of the Robotarium Simulator* and implements a *Potential Field Control Model* to navigate firefighting robots between fire locations while avoiding obstacles and managing energy constraints.
+This repository contains the code and simulation setup for our **Multi-Robot Firefighting System**, developed as part of the final project for *MAE598* at Arizona State University (ASU). The simulation uses the *Python version of the Robotarium Simulator* and implements a *Potential Field Control Model* to navigate firefighting robots between fire locations while avoiding obstacles and managing energy constraints.
 
 ## Project Overview
 
