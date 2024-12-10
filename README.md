@@ -5,10 +5,10 @@ This repository contains the code and simulation setup for our **Multi-Robot Fir
 ## Project Overview
 
 The project demonstrates the capabilities of a multi-robot system in a simulated firefighting task. It features:
-- *Multi-Robot Coordination*: Five autonomous robots working together to locate and extinguish fires.
-- *Obstacle Avoidance*: Dynamic path planning and obstacle evasion using potential field control.
+- *Multi-Robot Coordination*: Five autonomous robots working together to navigate to and extinguish fires.
+- *Obstacle Avoidance*: Obstacle evasion using potential field control.
 - *Battery Management*: Robots autonomously monitor their battery levels and make decisions accordingly:
-  - Robots navigate to the nearest charging station when their battery drops below 25%.
+  - Robots navigate to the charging station when their battery drops below 25%.
   - After recharging, robots resume their firefighting tasks.
 
 ## Simulation Environment
