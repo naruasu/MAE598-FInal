@@ -23,4 +23,4 @@ The simulation is developed using the *Python version of the Robotarium Simulato
 
 ## Acknowledgments
 
-This project was developed as part of *MAE598* at *Arizona State University. Special thanks to the creators of the **Robotarium Simulator* for providing an excellent platform for multi-robot simulation and control.
+This project was developed as part of *MAE598* at *Arizona State University*. Special thanks to the creators of the **Robotarium Simulator* for providing an excellent platform for multi-robot simulation and control.
